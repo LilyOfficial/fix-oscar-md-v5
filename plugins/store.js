@@ -8,7 +8,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let teks = `【 𝚂𝚘𝚜𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 】`
 const sections = [
    {
-	title: ` 𝚂𝚞𝚙𝚘𝚛𝚝 𝙼𝚎`,
+	title: ` Support Creator Bot`,
 	rows: [
 	{title: `𝙰𝚕𝚕 𝚂𝚌𝚛𝚒𝚙𝚝`, rowId: ".sc", description: "𝙹𝚊𝚗𝚐𝚊𝚗 𝙻𝚞𝚙𝚊 𝙺𝚊𝚜𝚒𝚑 𝚂𝚝𝚊𝚛"},
 	{title: `𝙼𝚢 𝚈𝚘𝚞𝚝𝚞𝚋𝚎`, rowId: ".ytowner", description: "𝙹𝚊𝚗𝚐𝚊𝚗 𝙻𝚞𝚙𝚊 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎"},
