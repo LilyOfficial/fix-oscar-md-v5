@@ -5,7 +5,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let type = (args[0] || '').toLowerCase()
   let _type = (args[0] || '').toLowerCase()
 
-  let teks = `【 𝚂𝚘𝚜𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙹𝚊𝚛𝚘𝚝 】`
+  let teks = `【 𝚂𝚘𝚜𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 】`
 const sections = [
    {
 	title: ` 𝚂𝚞𝚙𝚘𝚛𝚝 𝙼𝚎`,
